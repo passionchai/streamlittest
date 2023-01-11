@@ -1,3 +1,2 @@
-import streamlit as stx 
-st.slider('x')
-st.write(x, 'squared is', x * x)
+import streamlit as stst.write('Hello, world!')
+
